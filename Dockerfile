@@ -1,6 +1,6 @@
 FROM mono
 
-MAINTAINER Totentanz604 "totentech@gmail.com"
+LABEL maintainer="totentech@gmail.com"
 
 EXPOSE 8080
 CMD [ "mono", "/binary/program" ]
