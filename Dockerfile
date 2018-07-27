@@ -1,4 +1,4 @@
-FROM mono
+FROM mono:latest
 
 LABEL maintainer="totentech@gmail.com"
 
